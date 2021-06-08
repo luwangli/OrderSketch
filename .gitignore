@@ -1,0 +1,12 @@
+Analysis/*
+data/*.dat
+OrderSketch/ordersketch1.h
+OrderSketch/ordersketch2.h
+OrderSketch/ordersketch3.h
+demo/*.txt
+demo/*.csv
+demo/*.out
+SimpleHash/simplehash1.h
+
+
+!data/0.dat
